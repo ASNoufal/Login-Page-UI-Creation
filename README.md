@@ -2,21 +2,27 @@
 
 A new Flutter project.
 
-## Getting Started
+## About this project
+
+
+This is my first Flutter project, which I created to learn more about building user interfaces with Flutter. The project is a Login Screen  that displays a list of items and allows the user to interact with them by tapping on them. I used various Flutter widgets, such as Column and GestureDetector to create the UI.
+
+In addition to learning about building UIs with Flutter, I also learned about managing state and handling user input. I used StatefulWidget to manage the state of the app and respond to changes in user input.
+
+Overall, I'm excited about what I've learned so far and can't wait to continue building more advanced Flutter apps in the future.
 
 
 
-"Welcome to my first Flutter project! This app is a simple example of how to create a basic user interface with Flutter. The app includes a few different screens, including a home screen with some introductory text and a few buttons, as well as a settings screen where users can customize the app's behavior. This project was a great introduction to Flutter development, and I'm looking forward to building more complex apps in the future!"
-
-Feel free to modify and customize this description to better reflect the specifics of your project.
-
-![Screenshot_1677215317](https://user-images.githubusercontent.com/118522350/221166928-a0cd80e9-bce5-4d1d-b6c4-3eaaecab4038.png)
 
 
 
 
 
 
+
+
+
+![Screenshot_1677238470](https://user-images.githubusercontent.com/118522350/221170757-c9357fe1-aa7e-4a73-8ca2-2165f7244f5a.png)
 
 
 
